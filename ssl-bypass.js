@@ -3,7 +3,7 @@
  * Authorised testing only.
  *
  * Run:
- *   frida -D 192.168.56.107:5555 -f  -l ssl-bypass.js
+ *   frida -D  -f  -l ssl-bypass.js
  *   then type: %resume
  *
  * APK signature bypass (optional):
